@@ -1,0 +1,3 @@
+python pyroNS.py
+
+PAUSE
